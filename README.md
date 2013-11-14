@@ -5,7 +5,7 @@ A list of [Gin's](gin.csv) and [Tonic Water's](tonic.csv).
 
 ## Why
 
-I like Gin-Tonic and want to make a overview of available kinds.
+I like Gin Tonic and want to make a overview of available kinds.
 
 ## Contribute
 
