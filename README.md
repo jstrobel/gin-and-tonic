@@ -1,7 +1,7 @@
 Gin and Tonic
 =============
 
-A list of [Gin's](gin.csv) and [Tonic Water's](tonic.csv).
+A list of [Gins](gin.csv) and [Tonic Waters](tonic.csv).
 
 ## Why
 
