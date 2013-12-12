@@ -1,41 +1,34 @@
 name,maker,type,bottlesize,alcohol,country,city,website
 7D Gin,Comercial Tello S.A.,London Dry Gin,0.7l,41%,Spain,Barcelona,
 Adler Berlin Dry Gin,Preussische Spirituosen Manufaktur,Dry Gin,0.7l,42%,Germany,Berlin,http://www.adlergin.de
-Adnams First Rate Gin,Adnams Copper House Distillery,Dry Gin,0.5l,48%,England,Suffolk,http://adnams.co.uk/spirits/our-spirits/first-rate-finest-cut-gin/
-Adnams First Rate Gin,Adnams Copper House Distillery,Dry Gin,0.7l,48%,England,Suffolk,http://adnams.co.uk/spirits/our-spirits/first-rate-finest-cut-gin/
+Adnams First Rate Gin,Adnams Copper House Distillery,Dry Gin,0.5l/0.7l,48%,England,Suffolk,http://adnams.co.uk/spirits/our-spirits/first-rate-finest-cut-gin/
 Arctic Velvet Premium Gin,ThoCon AG,Dry Gin,0.7l,40%,Switzerland,Cham,http://www.arctic-velvet.com
 Beefeater 24 London Dry Gin,Pernod Ricard,Dry Gin,0.7l,45%,England,London,http://www.beefeatergin.com
-Beefeater London Distilled Dry Gin,Pernod Ricard,Dry Gin,0.7l,47%,England,London,http://www.beefeatergin.com
-Beefeater London Distilled Dry Gin,Pernod Ricard,Dry Gin,1l,47%,England,London,http://www.beefeatergin.com
+Beefeater London Distilled Dry Gin,Pernod Ricard,Dry Gin,0.7l/1l,47%,England,London,http://www.beefeatergin.com
 Berkeley Square Gin,G&J Distiller,Dry Gin,0.7l,40%,England,London,http://www.berkeleysquaregin.com
 Biercee Gin,Distillerie de Biercée,Dry Gin,0.7l,44%,Belgium,Ragnies,http://www.distilleriedebiercee.be/en/our-product-range/biercee-gin/
 Blackwoods Vintage Dry Gin,Blavod Drinks Ltd.,Dry Gin,0.7l,40%,England,London,http://blackwoodsgin.net/gin.php
 Blackwoods Vintage Dry Gin (Limited Edition 60%),Blavod Drinks Ltd.,Dry Gin,0.7l,60%,England,London,http://blackwoodsgin.net/gin.php
 Bloom Premium London Dry Gin,BLOOM,London Dry Gins,0.7l,40%,England,London,http://www.bloomgin.com
 Bombay Sapphire East 1 Liter,Bombay Sapphire,Dry Gin,1l,42%,England,London,http://www.bombaysapphire.com
-Bombay Sapphire London Dry Gin,Bombay Sapphire,Dry Gin,0.7l,40%,England,London,http://www.bombaysapphire.com
-Bombay Sapphire London Dry Gin,Bombay Sapphire,Dry Gin,1l,40%,England,London,http://www.bombaysapphire.com
+Bombay Sapphire London Dry Gin,Bombay Sapphire,Dry Gin,0.7l/1l,40%,England,London,http://www.bombaysapphire.com
 Botanic Premium London Dry Gin,Bodegas Williams Humbert,Dry Gin,0.7l,45%,England,Birmingham,
 Botanic Ultra Premium London Dry Gin,Bodegas Williams Humbert,Dry Gin,0.7l,45%,England,Birmingham,
 Boths Old Tom Gin,Both's/Secret Treasure,Dry Gin,0.7l,47%,Germany,,
 Brecon Special Reserve Gin,Brecon,Dry Gin,0.7l,40%,England,Brecon Beacons National Park,http://www.welsh-whisky.co.uk/Our-Spirits/Brecon-Gin.aspx
 Brokers Premium Dry Gin,Broker's Gin Limited,Dry Gin,0.7l,40%,England,London,http://www.brokersgin.com
 Brokers Premium Dry Gin,Broker's Gin Limited,Dry Gin,0.7l,47%,England,London,http://www.brokersgin.com
-Bulldog Gin,Bulldog Gin,Dry Gin,0.35l,40%,England,London,http://www.bulldoggin.com
-Bulldog Gin,Bulldog Gin,Dry Gin,0.7l,40%,England,London,http://www.bulldoggin.com
+Bulldog Gin,Bulldog Gin,Dry Gin,0.35l/0.7l,40%,England,London,http://www.bulldoggin.com
 Bulldog Gin Extra Bold,Bulldog Gin,Dry Gin,1l,47%,England,London,http://www.bulldoggin.com
 Caorunn Gin,Moffat Distillery,Dry Gin,0.7l,41.8%,Scotland,Airdrie,http://www.caorunngin.com
-Cap Rock Organic Gin,Peak Spirits LLC,Dry Gin,0.2l,41%,USA,North Road,http://peakspirits.com
-Cap Rock Organic Gin,Peak Spirits LLC,Dry Gin,0.75l,41%,USA,North Road,http://peakspirits.com
-Cap Rock Organic Gin,Peak Spirits LLC,Dry Gin,1l,41%,USA,North Road,http://peakspirits.com
+Cap Rock Organic Gin,Peak Spirits LLC,Dry Gin,0.2l/0.75l/1l,41%,USA,North Road,http://peakspirits.com
 Chase Elegant Crisp Gin,,Dry Gin,0.7l,48%,England,,
 Chase Seville Orange Gin,,Dry Gin,0.7l,40%,England,,
 Citadelle Gin,Cognac Ferrand,Dry Gin,0.7l,44%,France,Viroflay,http://www.citadellegin.com
 Club Charles Gin,punct handelsgesellschaft mbH,Dry Gin,0.7l,44%,Germany,Hamburg,http://www.club-charles.de
 Corsair Barrel Aged Gin,Corsair Artisan Distillers,Dry Gin,0.7l,46%,USA,Tennessee,http://www.corsairartisan.com
 Corsair Gin,Corsair Artisan Distillers,Dry Gin,0.7l,44%,USA,Tennessee,http://www.corsairartisan.com
-Edinburgh Gin,The Spencerfield Spirit Company Ltd,Dry Gin,0.2l,43%,Scotland,Innverkeithing,http://www.spencerfieldspirit.com/products/edinburgh-gin/
-Edinburgh Gin,The Spencerfield Spirit Company Ltd,Dry Gin,0.7l,43%,Scotland,Innverkeithing,http://www.spencerfieldspirit.com/products/edinburgh-gin/
+Edinburgh Gin,The Spencerfield Spirit Company Ltd,Dry Gin,0.2l/0.7l,43%,Scotland,Innverkeithing,http://www.spencerfieldspirit.com/products/edinburgh-gin/
 Feel! Munich Dry Gin,Korbinian Achternbusch,Dry Gin,0.7l,47%,Germany,Munich,http://www.feel-gin.de
 Fifty Pounds Gin,Thames Distillers,Dry Gin,0.7l,43.5%,England,London,http://www.fiftypoundsgin.co.uk
 Finsbury Platinum,Finsbury,Dry Gin,1l,47%,England,London,
@@ -44,8 +37,7 @@ G-Vine Gin Nouaison,G'Vine,Dry Gin,0.7l,43.9%,France,,http://www.g-vine.com
 Geranium Gin,Hammer & Son Ltd.,Premium Dry Gin,0.7l,44%,England,,http://www.geraniumgin.com
 Gilbey's Special London Dry Gin ,Beam Inc.,Dry Gin,1l,47.5%,USA,Deerfield,http://www.beamglobal.com
 Gordon's Sloe Gin,Tanqueray Gordon & Co.,Sloe Gin,0.7l,26%,Scotland,Windygates,http://www.gordons-gin.co.uk
-Gordon's Special London Dry Gin,Tanqueray Gordon & Co.,Dry Gin,0.7l,37.5%,Scotland,Windygates,http://www.gordons-gin.co.uk
-Gordon's Special London Dry Gin,Tanqueray Gordon & Co.,Dry Gin,1l,37.5%,Scotland,Windygates,http://www.gordons-gin.co.uk
+Gordon's Special London Dry Gin,Tanqueray Gordon & Co.,Dry Gin,0.7l/1l,37.5%,Scotland,Windygates,http://www.gordons-gin.co.uk
 Hayman's Sloe Gin,Hayman Distillers London,Sloe Gin,0.7l,26%,England,London,
 Hendrick's Gin,William Grant & Sons,Dry Gin,0.7l,41.4%,Schottland,,http://www.hendricksgin.com
 Magellan Blue Gin,Angeac Distillery,Dry Gin,1l,44%,France,,http://www.magellangin.com
@@ -68,16 +60,12 @@ Professor Cornelius Ampleforth's Bathtub Gin Navy Strength,Professor Cornelius A
 Professor Cornelius Ampleforth's Cask-Aged Gin,Professor Cornelius Ampleforth's,Dry Gin,0.5l,43.3%,England,,
 Saffron Gin ,Gabriel Boudier Destillerie,Dry Gin,0.7l,40%,France,Dijon,
 Southern Artisan Spirits Cardinal Gin,Southern Artisan Spirits (SAS),Dry Gin,0.7l,42%,USA,Kings Mountain,http://www.southernartisanspirits.com
-Spectator Gin,Master Of Malt,Dry Gin,0.3l,42.4%,England,Tunbridge Wells,http://www.masterofmalt.com
-Spectator Gin,Master Of Malt,Dry Gin,0.7l,42.4%,England,Tunbridge Wells,http://www.masterofmalt.com
-Sylvan Gin,Koval Inc.,Dry Gin,0.5l,47%,USA,Chicago,http://aboutkoval.com
-Sylvan Gin,Koval Inc.,Dry Gin,1l,47%,USA,Chicago,http://aboutkoval.com
+Spectator Gin,Master Of Malt,Dry Gin,0.3l/0.7l,42.4%,England,Tunbridge Wells,http://www.masterofmalt.com
+Sylvan Gin,Koval Inc.,Dry Gin,0.5l/1l,47%,USA,Chicago,http://aboutkoval.com
 Sylvius Gin,Onder de Boompjes,Dry Gin,0.7l,45%,Netherland,Schiedam,http://www.sylviusgin.eu
-Tanqueray Gin,Charles Tanqueray & Co.,Dry Gin,0.7l,47.3%,England,London,http://www.tanqueray.com
-Tanqueray Gin,Charles Tanqueray & Co.,Dry Gin,1l,47.3%,England,London,http://www.tanqueray.com
+Tanqueray Gin,Charles Tanqueray & Co.,Dry Gin,0.7l/1l,47.3%,England,London,http://www.tanqueray.com
 Tanqueray Malacca Gin (Limited Edition 2013),Charles Tanqueray & Co.,Dry Gin,1l,40%,England,London,http://www.tanqueray.com
-Tanqueray No. 10 Gin,Charles Tanqueray & Co.,Dry Gin,0.7l,47.3%,England,London,http://www.tanqueray.com
-Tanqueray No. 10 Gin,Charles Tanqueray & Co.,Dry Gin,1l,47.3%,England,London,http://www.tanqueray.com
+Tanqueray No. 10 Gin,Charles Tanqueray & Co.,Dry Gin,0.7l/1l,47.3%,England,London,http://www.tanqueray.com
 Tanqueray Gin Rangpur,Charles Tanqueray & Co.,Dry Gin,1l,41.3%,England,London,http://www.tanqueray.com
 The Botanist Islay Dry Gin,Bruichladdich distillery,Dry Gin,0.7l,46%,Scotland,Glasgow,http://www.bruichladdich.com
 The Duke Munich Dry Gin,THE DUKE Destillerie,Dry Gin,0.7l,45%,Germany,Munic,http://www.theduke-gin.de
